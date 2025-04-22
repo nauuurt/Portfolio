@@ -1,2 +1,2 @@
 # System Management DataBased Management
-Visual Studio Code - javascript, Xammp - myphpadmin
+Visual Studio Code - C#, Xammp - myphpadmin
